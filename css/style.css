@@ -382,7 +382,7 @@ main .container {
   
   /* ----- Sección redes sociales ----- */
   footer #section-social-media {
-    background-image: linear-gradient(#3c5171 30%, #1e2838 90%);
+    background-image: linear-gradient(to bottom, #5a189a,#7b2cbf, #9d4edd, #c77dff, #e0aaff);
     padding: 60px 0;
   }
   
